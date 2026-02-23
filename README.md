@@ -198,6 +198,7 @@ These are passed as preprocessor defines and gate both source file inclusion (in
 
 | Document | Description |
 |---|---|
-| [`PROJECT.md`](PROJECT.md) | Hardware overview, microcontroller specs, sensor datasheets, FreeRTOS task architecture, telemetry protocol |
+| [`PROJECT.md`](PROJECT.md) | Project overview, preliminary analysis, sensor selection |
+| [`TECHNICAL.md`](TECHNICAL.md) | Hardware overview, microcontroller specs, sensor datasheets, FreeRTOS task architecture, telemetry protocol |
 | [`arch.pdf`](arch.pdf) | System architecture diagram |
 | [`bom.xlsx`](bom.xlsx) | Bill of materials |
