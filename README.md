@@ -49,7 +49,8 @@ sudo pacman -S arm-none-eabi-gcc arm-none-eabi-binutils stlink
 **On macOS (Homebrew):**
 
 ```bash
-brew install arm-none-eabi-gcc stlink
+brew install stlink
+brew install --cask gcc-arm-embedded
 ```
 
 Verify the toolchain is available:
